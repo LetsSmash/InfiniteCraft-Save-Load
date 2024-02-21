@@ -6,7 +6,7 @@ Just a Basic Userscript to handle Save and Loading Functionality in Neal.Fun's I
 1. Install a userscript manager:
    - [Violentmonkey](https://violentmonkey.github.io/) (open source, recommended).
    - [Tampermonkey](https://tampermonkey.net/) (closed source, supports more browsers).
-2. Install this userscript: TODO
+2. Install this userscript: [InfiniteCraft Save & Load](https://github.com/LetsSmash/InfiniteCraft-Save-Load/raw/main/InfiniteCraft%20Load%20&%20Save.user.js)
    - If you're using Violentmonkey, press the "Confirm installation" button on the left.
    - If you're using Tampermonkey, press the "Install" button on the top-left.
 3. You will see a "Save" and a "Load" Button at the Top.
