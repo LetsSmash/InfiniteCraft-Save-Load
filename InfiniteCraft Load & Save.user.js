@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         InfiniteCraft Load & Save
 // @version      2024-02-20
-// @description  try to take over the world!
-// @author       You
+// @description  Just a Basic Userscript to handle Save and Loading Functionality in Neal.Fun's Infinite Craft
+// @author       LetsSmash
+// @homepage     https://github.com/LetsSmash/InfiniteCraft-Save-Load
 // @match        https://neal.fun/infinite-craft/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
