@@ -11,7 +11,7 @@ Just a Basic Userscript to handle Save and Loading Functionality in Neal.Fun's I
    - If you're using Tampermonkey, press the "Install" button on the top-left.
 3. You will see a "Save" and a "Load" Button at the Top.
 
-To update the installed userscript to the latest version, simply do step 3 again.
+To update the installed userscript to the latest version, simply do step 2 again.
 
 ## Contribution
 Contribution is appreachiated! I'm still a Beginner Programmer, so maybe you can help me improve my code.
